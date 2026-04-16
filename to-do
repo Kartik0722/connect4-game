@@ -1,5 +1,6 @@
-Backend - scores 
-multiplayer 
-give player choice to select colours
-Ai bot
-themes
+In this game add the following features 
+1)Users profile along with scores 
+2)Give player to select token colour(you can replace previous token logic which used images)
+-expanding on point 2) give player themes (optional )
+3)Ai bot for multiplayer --- Important
+(Focus on this point )
